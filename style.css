@@ -1,0 +1,16 @@
+.header {
+   text-align: center; 
+}
+html{
+   margin-top: 1px;margin-left: 1px; margin-bottom: 1px;margin-right: 1px;
+}
+body {
+   border: 6px solid lightgray;
+   }
+
+.container {
+   margin-left: 0px;
+}
+h4{
+   margin-left: 17px
+}
